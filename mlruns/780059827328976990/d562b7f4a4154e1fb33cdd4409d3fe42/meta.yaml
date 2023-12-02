@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/d562b7f4a4154e1fb33cdd4409d3fe42/artifacts
+end_time: 1699274182341
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: d562b7f4a4154e1fb33cdd4409d3fe42
+run_name: unruly-newt-777
+run_uuid: d562b7f4a4154e1fb33cdd4409d3fe42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699274147384
+status: 3
+tags: []
+user_id: himanshu.verma

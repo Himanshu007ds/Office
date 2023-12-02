@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/dd31b45e30d64ff2a7a5349b9812d4dc/artifacts
+end_time: 1699263917496
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: dd31b45e30d64ff2a7a5349b9812d4dc
+run_name: enthused-stork-173
+run_uuid: dd31b45e30d64ff2a7a5349b9812d4dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699263876781
+status: 3
+tags: []
+user_id: himanshu.verma

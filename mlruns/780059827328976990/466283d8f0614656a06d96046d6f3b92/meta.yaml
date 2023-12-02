@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/466283d8f0614656a06d96046d6f3b92/artifacts
+end_time: 1699275267391
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 466283d8f0614656a06d96046d6f3b92
+run_name: grandiose-duck-226
+run_uuid: 466283d8f0614656a06d96046d6f3b92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699275226846
+status: 3
+tags: []
+user_id: himanshu.verma

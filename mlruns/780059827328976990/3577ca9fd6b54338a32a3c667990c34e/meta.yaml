@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/3577ca9fd6b54338a32a3c667990c34e/artifacts
+end_time: 1699277638753
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 3577ca9fd6b54338a32a3c667990c34e
+run_name: likeable-dolphin-8
+run_uuid: 3577ca9fd6b54338a32a3c667990c34e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699277600563
+status: 3
+tags: []
+user_id: himanshu.verma

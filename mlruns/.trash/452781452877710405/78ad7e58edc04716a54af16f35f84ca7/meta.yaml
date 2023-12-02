@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/452781452877710405/78ad7e58edc04716a54af16f35f84ca7/artifacts
+deleted_time: 1699261562502
+end_time: 1699261116007
+entry_point_name: ''
+experiment_id: '452781452877710405'
+lifecycle_stage: deleted
+run_id: 78ad7e58edc04716a54af16f35f84ca7
+run_name: dashing-moose-222
+run_uuid: 78ad7e58edc04716a54af16f35f84ca7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699261076525
+status: 3
+tags: []
+user_id: himanshu.verma

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/3548ee0556214d1bb83e93d0c1460398/artifacts
+end_time: 1699265746872
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 3548ee0556214d1bb83e93d0c1460398
+run_name: adorable-cub-190
+run_uuid: 3548ee0556214d1bb83e93d0c1460398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699265708712
+status: 3
+tags: []
+user_id: himanshu.verma

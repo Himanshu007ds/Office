@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/208ba67dd870451c9112e2b300ef9a56/artifacts
+end_time: 1699280940759
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 208ba67dd870451c9112e2b300ef9a56
+run_name: abundant-gnat-869
+run_uuid: 208ba67dd870451c9112e2b300ef9a56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699280905999
+status: 3
+tags: []
+user_id: himanshu.verma

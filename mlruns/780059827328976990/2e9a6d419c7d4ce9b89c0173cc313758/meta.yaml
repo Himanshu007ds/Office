@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/2e9a6d419c7d4ce9b89c0173cc313758/artifacts
+end_time: 1699272515456
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 2e9a6d419c7d4ce9b89c0173cc313758
+run_name: orderly-trout-352
+run_uuid: 2e9a6d419c7d4ce9b89c0173cc313758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699272477080
+status: 3
+tags: []
+user_id: himanshu.verma

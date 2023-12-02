@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/aed0eab2f2b64ce1823d979eba48ea5e/artifacts
+end_time: 1699263357758
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: aed0eab2f2b64ce1823d979eba48ea5e
+run_name: unequaled-turtle-570
+run_uuid: aed0eab2f2b64ce1823d979eba48ea5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699263313960
+status: 3
+tags: []
+user_id: himanshu.verma

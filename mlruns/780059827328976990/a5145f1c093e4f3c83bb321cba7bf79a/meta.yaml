@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/a5145f1c093e4f3c83bb321cba7bf79a/artifacts
+end_time: 1699265130976
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: a5145f1c093e4f3c83bb321cba7bf79a
+run_name: bustling-tern-565
+run_uuid: a5145f1c093e4f3c83bb321cba7bf79a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699265094423
+status: 3
+tags: []
+user_id: himanshu.verma

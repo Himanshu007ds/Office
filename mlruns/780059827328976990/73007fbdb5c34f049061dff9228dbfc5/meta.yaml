@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/73007fbdb5c34f049061dff9228dbfc5/artifacts
+end_time: 1699278785513
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 73007fbdb5c34f049061dff9228dbfc5
+run_name: judicious-kite-525
+run_uuid: 73007fbdb5c34f049061dff9228dbfc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699278748777
+status: 3
+tags: []
+user_id: himanshu.verma

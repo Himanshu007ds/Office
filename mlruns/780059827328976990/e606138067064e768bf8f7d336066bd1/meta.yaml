@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/e606138067064e768bf8f7d336066bd1/artifacts
+end_time: 1699273608813
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: e606138067064e768bf8f7d336066bd1
+run_name: capricious-cat-875
+run_uuid: e606138067064e768bf8f7d336066bd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699273571338
+status: 3
+tags: []
+user_id: himanshu.verma

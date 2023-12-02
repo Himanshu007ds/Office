@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/11155651d10843cd971acdacb836c29d/artifacts
+end_time: 1699274394211
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 11155651d10843cd971acdacb836c29d
+run_name: thoughtful-rat-856
+run_uuid: 11155651d10843cd971acdacb836c29d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699274358515
+status: 3
+tags: []
+user_id: himanshu.verma

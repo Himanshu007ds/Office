@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/f7c0298362ce4311a5aa651fa85c160e/artifacts
+end_time: 1699275074978
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: f7c0298362ce4311a5aa651fa85c160e
+run_name: rebellious-asp-253
+run_uuid: f7c0298362ce4311a5aa651fa85c160e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699275040649
+status: 3
+tags: []
+user_id: himanshu.verma

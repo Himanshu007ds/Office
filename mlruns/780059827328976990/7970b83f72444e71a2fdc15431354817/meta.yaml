@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/7970b83f72444e71a2fdc15431354817/artifacts
+end_time: 1699282722954
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 7970b83f72444e71a2fdc15431354817
+run_name: magnificent-bug-318
+run_uuid: 7970b83f72444e71a2fdc15431354817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699282683204
+status: 3
+tags: []
+user_id: himanshu.verma

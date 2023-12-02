@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/452781452877710405/915ff5cb50da456ba93e0c0d766d1b31/artifacts
+deleted_time: 1699261562502
+end_time: 1699260917897
+entry_point_name: ''
+experiment_id: '452781452877710405'
+lifecycle_stage: deleted
+run_id: 915ff5cb50da456ba93e0c0d766d1b31
+run_name: smiling-mouse-579
+run_uuid: 915ff5cb50da456ba93e0c0d766d1b31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699260878295
+status: 3
+tags: []
+user_id: himanshu.verma

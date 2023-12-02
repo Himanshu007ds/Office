@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/84a4719eb5eb45858b953b5daac4b62d/artifacts
+end_time: 1699265401683
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 84a4719eb5eb45858b953b5daac4b62d
+run_name: zealous-snipe-341
+run_uuid: 84a4719eb5eb45858b953b5daac4b62d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699265361097
+status: 3
+tags: []
+user_id: himanshu.verma

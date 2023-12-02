@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/f157b60892b94e70b7e1071c7468e542/artifacts
+end_time: 1699271457799
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: f157b60892b94e70b7e1071c7468e542
+run_name: dazzling-cow-566
+run_uuid: f157b60892b94e70b7e1071c7468e542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699271421592
+status: 3
+tags: []
+user_id: himanshu.verma

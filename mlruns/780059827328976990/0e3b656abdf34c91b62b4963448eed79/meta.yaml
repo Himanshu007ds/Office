@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/0e3b656abdf34c91b62b4963448eed79/artifacts
+end_time: 1699271183308
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 0e3b656abdf34c91b62b4963448eed79
+run_name: masked-pig-655
+run_uuid: 0e3b656abdf34c91b62b4963448eed79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699271143437
+status: 3
+tags: []
+user_id: himanshu.verma

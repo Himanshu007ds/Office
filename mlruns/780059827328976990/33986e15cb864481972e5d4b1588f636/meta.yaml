@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/33986e15cb864481972e5d4b1588f636/artifacts
+end_time: 1699265670506
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 33986e15cb864481972e5d4b1588f636
+run_name: classy-cow-284
+run_uuid: 33986e15cb864481972e5d4b1588f636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699265633382
+status: 3
+tags: []
+user_id: himanshu.verma

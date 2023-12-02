@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/b6c12ea660024937906a4d6445f21846/artifacts
+end_time: 1699268753137
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: b6c12ea660024937906a4d6445f21846
+run_name: bedecked-wasp-199
+run_uuid: b6c12ea660024937906a4d6445f21846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699268715186
+status: 3
+tags: []
+user_id: himanshu.verma

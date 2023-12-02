@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/6c59e71d3cb94caa8e3f98f0fd90bb10/artifacts
+end_time: 1699276988722
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 6c59e71d3cb94caa8e3f98f0fd90bb10
+run_name: puzzled-koi-591
+run_uuid: 6c59e71d3cb94caa8e3f98f0fd90bb10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699276951298
+status: 3
+tags: []
+user_id: himanshu.verma

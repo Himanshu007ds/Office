@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/d5c79f7c1bd44178841fea70f9b67849/artifacts
+end_time: 1699266091918
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: d5c79f7c1bd44178841fea70f9b67849
+run_name: rumbling-grub-429
+run_uuid: d5c79f7c1bd44178841fea70f9b67849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699266055577
+status: 3
+tags: []
+user_id: himanshu.verma

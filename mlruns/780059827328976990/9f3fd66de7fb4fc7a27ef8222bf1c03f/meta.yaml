@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/9f3fd66de7fb4fc7a27ef8222bf1c03f/artifacts
+end_time: 1699329229273
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 9f3fd66de7fb4fc7a27ef8222bf1c03f
+run_name: hilarious-gnu-232
+run_uuid: 9f3fd66de7fb4fc7a27ef8222bf1c03f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699329190321
+status: 3
+tags: []
+user_id: himanshu.verma

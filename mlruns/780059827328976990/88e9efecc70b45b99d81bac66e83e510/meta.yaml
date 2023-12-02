@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/88e9efecc70b45b99d81bac66e83e510/artifacts
+end_time: 1699265516528
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 88e9efecc70b45b99d81bac66e83e510
+run_name: peaceful-jay-790
+run_uuid: 88e9efecc70b45b99d81bac66e83e510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699265480345
+status: 3
+tags: []
+user_id: himanshu.verma

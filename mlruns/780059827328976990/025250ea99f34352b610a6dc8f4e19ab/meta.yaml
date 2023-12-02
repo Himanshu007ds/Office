@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/025250ea99f34352b610a6dc8f4e19ab/artifacts
+end_time: 1699329452592
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 025250ea99f34352b610a6dc8f4e19ab
+run_name: useful-shrike-967
+run_uuid: 025250ea99f34352b610a6dc8f4e19ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699329415352
+status: 3
+tags: []
+user_id: himanshu.verma

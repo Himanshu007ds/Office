@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/87ac4b0e72f6488ca6c9cddfc704ec31/artifacts
+end_time: 1699273137166
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 87ac4b0e72f6488ca6c9cddfc704ec31
+run_name: brawny-conch-106
+run_uuid: 87ac4b0e72f6488ca6c9cddfc704ec31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699273099395
+status: 3
+tags: []
+user_id: himanshu.verma

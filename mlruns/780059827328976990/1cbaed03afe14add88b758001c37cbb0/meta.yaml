@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/1cbaed03afe14add88b758001c37cbb0/artifacts
+end_time: 1699270619619
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 1cbaed03afe14add88b758001c37cbb0
+run_name: agreeable-fox-85
+run_uuid: 1cbaed03afe14add88b758001c37cbb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699270576262
+status: 3
+tags: []
+user_id: himanshu.verma

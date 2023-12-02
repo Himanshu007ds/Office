@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/37511edda8c94e298c4a9ed5c4c9b636/artifacts
+end_time: 1699271690319
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 37511edda8c94e298c4a9ed5c4c9b636
+run_name: smiling-ant-732
+run_uuid: 37511edda8c94e298c4a9ed5c4c9b636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699271646741
+status: 3
+tags: []
+user_id: himanshu.verma

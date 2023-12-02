@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/7037be94b0fc447b9bf4e14ff07efacd/artifacts
+end_time: 1699263194176
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 7037be94b0fc447b9bf4e14ff07efacd
+run_name: resilient-gull-588
+run_uuid: 7037be94b0fc447b9bf4e14ff07efacd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699263157733
+status: 3
+tags: []
+user_id: himanshu.verma

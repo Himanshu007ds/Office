@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/bbdc2f77c2d44b9fa1a2bf86f607c9c3/artifacts
+end_time: 1699266580085
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: bbdc2f77c2d44b9fa1a2bf86f607c9c3
+run_name: gentle-snake-4
+run_uuid: bbdc2f77c2d44b9fa1a2bf86f607c9c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699266543525
+status: 3
+tags: []
+user_id: himanshu.verma

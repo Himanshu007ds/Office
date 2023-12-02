@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/452781452877710405/005b14bff928472c9d96d89f51b737e4/artifacts
+deleted_time: 1699261562502
+end_time: 1699261036541
+entry_point_name: ''
+experiment_id: '452781452877710405'
+lifecycle_stage: deleted
+run_id: 005b14bff928472c9d96d89f51b737e4
+run_name: useful-deer-637
+run_uuid: 005b14bff928472c9d96d89f51b737e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699260997793
+status: 3
+tags: []
+user_id: himanshu.verma

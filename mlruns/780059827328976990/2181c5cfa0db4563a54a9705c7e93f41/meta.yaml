@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/2181c5cfa0db4563a54a9705c7e93f41/artifacts
+end_time: 1699276514856
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 2181c5cfa0db4563a54a9705c7e93f41
+run_name: bold-gnu-862
+run_uuid: 2181c5cfa0db4563a54a9705c7e93f41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699276477233
+status: 3
+tags: []
+user_id: himanshu.verma

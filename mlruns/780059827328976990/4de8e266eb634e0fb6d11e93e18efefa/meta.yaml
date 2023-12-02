@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/4de8e266eb634e0fb6d11e93e18efefa/artifacts
+end_time: 1699265554268
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 4de8e266eb634e0fb6d11e93e18efefa
+run_name: omniscient-ray-458
+run_uuid: 4de8e266eb634e0fb6d11e93e18efefa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699265516553
+status: 3
+tags: []
+user_id: himanshu.verma

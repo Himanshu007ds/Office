@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/33bc295d403d490b95abd872cbc53ad1/artifacts
+end_time: 1699281422248
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 33bc295d403d490b95abd872cbc53ad1
+run_name: sedate-ape-774
+run_uuid: 33bc295d403d490b95abd872cbc53ad1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699281387290
+status: 3
+tags: []
+user_id: himanshu.verma

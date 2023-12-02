@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/1c1c6837f2204bbcb1424cabb5886a41/artifacts
+end_time: 1699279388756
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 1c1c6837f2204bbcb1424cabb5886a41
+run_name: adventurous-shad-407
+run_uuid: 1c1c6837f2204bbcb1424cabb5886a41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699279352579
+status: 3
+tags: []
+user_id: himanshu.verma

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/2fc40ba14da947cc8cc924c29b0e1f2a/artifacts
+end_time: 1699329568287
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 2fc40ba14da947cc8cc924c29b0e1f2a
+run_name: amusing-chimp-248
+run_uuid: 2fc40ba14da947cc8cc924c29b0e1f2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699329530766
+status: 3
+tags: []
+user_id: himanshu.verma

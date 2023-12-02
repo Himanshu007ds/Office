@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/452781452877710405/1c9bea2dd0f849d49b2484d84cbc5496/artifacts
+deleted_time: 1699261562502
+end_time: 1699261194206
+entry_point_name: ''
+experiment_id: '452781452877710405'
+lifecycle_stage: deleted
+run_id: 1c9bea2dd0f849d49b2484d84cbc5496
+run_name: trusting-fowl-614
+run_uuid: 1c9bea2dd0f849d49b2484d84cbc5496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699261155663
+status: 3
+tags: []
+user_id: himanshu.verma

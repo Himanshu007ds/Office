@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/a50ea5ac87624088a07d28bbd714f9a7/artifacts
+end_time: 1699266017394
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: a50ea5ac87624088a07d28bbd714f9a7
+run_name: mysterious-calf-382
+run_uuid: a50ea5ac87624088a07d28bbd714f9a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699265976931
+status: 3
+tags: []
+user_id: himanshu.verma

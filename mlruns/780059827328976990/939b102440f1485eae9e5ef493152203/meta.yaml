@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/939b102440f1485eae9e5ef493152203/artifacts
+end_time: 1699278637489
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 939b102440f1485eae9e5ef493152203
+run_name: persistent-ox-465
+run_uuid: 939b102440f1485eae9e5ef493152203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699278600571
+status: 3
+tags: []
+user_id: himanshu.verma

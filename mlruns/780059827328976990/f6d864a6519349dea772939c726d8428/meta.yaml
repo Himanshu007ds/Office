@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/f6d864a6519349dea772939c726d8428/artifacts
+end_time: 1699274689272
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: f6d864a6519349dea772939c726d8428
+run_name: judicious-owl-326
+run_uuid: f6d864a6519349dea772939c726d8428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699274653300
+status: 3
+tags: []
+user_id: himanshu.verma

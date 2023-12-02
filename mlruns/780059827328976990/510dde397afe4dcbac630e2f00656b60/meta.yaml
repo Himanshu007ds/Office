@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/510dde397afe4dcbac630e2f00656b60/artifacts
+end_time: 1699265862151
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 510dde397afe4dcbac630e2f00656b60
+run_name: languid-doe-543
+run_uuid: 510dde397afe4dcbac630e2f00656b60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699265822984
+status: 3
+tags: []
+user_id: himanshu.verma

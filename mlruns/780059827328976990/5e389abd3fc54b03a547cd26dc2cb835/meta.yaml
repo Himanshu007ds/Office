@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/5e389abd3fc54b03a547cd26dc2cb835/artifacts
+end_time: 1699278860837
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 5e389abd3fc54b03a547cd26dc2cb835
+run_name: loud-goat-582
+run_uuid: 5e389abd3fc54b03a547cd26dc2cb835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699278823844
+status: 3
+tags: []
+user_id: himanshu.verma

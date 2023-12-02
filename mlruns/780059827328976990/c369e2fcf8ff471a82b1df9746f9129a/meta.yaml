@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/c369e2fcf8ff471a82b1df9746f9129a/artifacts
+end_time: 1699273466651
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: c369e2fcf8ff471a82b1df9746f9129a
+run_name: burly-fawn-194
+run_uuid: c369e2fcf8ff471a82b1df9746f9129a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699273431473
+status: 3
+tags: []
+user_id: himanshu.verma

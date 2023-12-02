@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/78726313bbff4d8ead746f4733f3de14/artifacts
+end_time: 1699281734905
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 78726313bbff4d8ead746f4733f3de14
+run_name: melodic-conch-167
+run_uuid: 78726313bbff4d8ead746f4733f3de14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699281695135
+status: 3
+tags: []
+user_id: himanshu.verma

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/8d774005a1464494a63af8288282ceef/artifacts
+end_time: 1699277676844
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 8d774005a1464494a63af8288282ceef
+run_name: luminous-goose-390
+run_uuid: 8d774005a1464494a63af8288282ceef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699277638775
+status: 3
+tags: []
+user_id: himanshu.verma

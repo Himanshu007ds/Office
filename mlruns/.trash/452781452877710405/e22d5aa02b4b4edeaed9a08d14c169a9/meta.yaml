@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/452781452877710405/e22d5aa02b4b4edeaed9a08d14c169a9/artifacts
+deleted_time: 1699261562502
+end_time: 1699261271497
+entry_point_name: ''
+experiment_id: '452781452877710405'
+lifecycle_stage: deleted
+run_id: e22d5aa02b4b4edeaed9a08d14c169a9
+run_name: bald-roo-634
+run_uuid: e22d5aa02b4b4edeaed9a08d14c169a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699261232932
+status: 3
+tags: []
+user_id: himanshu.verma

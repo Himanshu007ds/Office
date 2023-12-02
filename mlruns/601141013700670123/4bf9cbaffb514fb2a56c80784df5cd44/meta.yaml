@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/601141013700670123/4bf9cbaffb514fb2a56c80784df5cd44/artifacts
+end_time: 1699262033764
+entry_point_name: ''
+experiment_id: '601141013700670123'
+lifecycle_stage: active
+run_id: 4bf9cbaffb514fb2a56c80784df5cd44
+run_name: resilient-crab-968
+run_uuid: 4bf9cbaffb514fb2a56c80784df5cd44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699261998223
+status: 3
+tags: []
+user_id: himanshu.verma

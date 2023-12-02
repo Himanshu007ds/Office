@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/288cd315b7604a268a6c3519708dcc83/artifacts
+end_time: 1699273643483
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 288cd315b7604a268a6c3519708dcc83
+run_name: resilient-fawn-348
+run_uuid: 288cd315b7604a268a6c3519708dcc83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699273608834
+status: 3
+tags: []
+user_id: himanshu.verma

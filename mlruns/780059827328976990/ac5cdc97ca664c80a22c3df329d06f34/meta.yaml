@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/ac5cdc97ca664c80a22c3df329d06f34/artifacts
+end_time: 1699282348236
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: ac5cdc97ca664c80a22c3df329d06f34
+run_name: nimble-penguin-51
+run_uuid: ac5cdc97ca664c80a22c3df329d06f34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699282312410
+status: 3
+tags: []
+user_id: himanshu.verma

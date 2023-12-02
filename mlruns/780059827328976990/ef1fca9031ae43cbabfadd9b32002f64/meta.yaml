@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/ef1fca9031ae43cbabfadd9b32002f64/artifacts
+end_time: 1699268676479
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: ef1fca9031ae43cbabfadd9b32002f64
+run_name: trusting-hog-711
+run_uuid: ef1fca9031ae43cbabfadd9b32002f64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699268636103
+status: 3
+tags: []
+user_id: himanshu.verma

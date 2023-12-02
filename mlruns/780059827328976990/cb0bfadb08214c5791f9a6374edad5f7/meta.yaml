@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/cb0bfadb08214c5791f9a6374edad5f7/artifacts
+end_time: 1699271729500
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: cb0bfadb08214c5791f9a6374edad5f7
+run_name: serious-wasp-841
+run_uuid: cb0bfadb08214c5791f9a6374edad5f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699271690338
+status: 3
+tags: []
+user_id: himanshu.verma

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/e209f1fd34724c37aa85b3672da2eadf/artifacts
+end_time: 1699272106168
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: e209f1fd34724c37aa85b3672da2eadf
+run_name: capricious-crab-897
+run_uuid: e209f1fd34724c37aa85b3672da2eadf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699272068006
+status: 3
+tags: []
+user_id: himanshu.verma

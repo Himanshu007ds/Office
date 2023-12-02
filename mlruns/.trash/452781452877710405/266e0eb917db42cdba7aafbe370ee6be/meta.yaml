@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/452781452877710405/266e0eb917db42cdba7aafbe370ee6be/artifacts
+deleted_time: 1699261562502
+end_time: 1699261353441
+entry_point_name: ''
+experiment_id: '452781452877710405'
+lifecycle_stage: deleted
+run_id: 266e0eb917db42cdba7aafbe370ee6be
+run_name: clean-cub-236
+run_uuid: 266e0eb917db42cdba7aafbe370ee6be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699261340002
+status: 3
+tags: []
+user_id: himanshu.verma

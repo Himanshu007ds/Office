@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/d2ee5ec39d2a48eebef7970ee0f2825a/artifacts
+end_time: 1699265057005
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: d2ee5ec39d2a48eebef7970ee0f2825a
+run_name: awesome-hog-282
+run_uuid: d2ee5ec39d2a48eebef7970ee0f2825a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699265016241
+status: 3
+tags: []
+user_id: himanshu.verma

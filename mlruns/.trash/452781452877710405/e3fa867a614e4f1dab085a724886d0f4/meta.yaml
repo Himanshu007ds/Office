@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/452781452877710405/e3fa867a614e4f1dab085a724886d0f4/artifacts
+deleted_time: 1699261562502
+end_time: null
+entry_point_name: ''
+experiment_id: '452781452877710405'
+lifecycle_stage: deleted
+run_id: e3fa867a614e4f1dab085a724886d0f4
+run_name: adaptable-newt-548
+run_uuid: e3fa867a614e4f1dab085a724886d0f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699261353472
+status: 1
+tags: []
+user_id: himanshu.verma

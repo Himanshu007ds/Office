@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/33b01ee172664c72ad648a97205af9e9/artifacts
+end_time: 1699278490298
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 33b01ee172664c72ad648a97205af9e9
+run_name: salty-mole-169
+run_uuid: 33b01ee172664c72ad648a97205af9e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699278455083
+status: 3
+tags: []
+user_id: himanshu.verma

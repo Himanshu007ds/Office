@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/601141013700670123/7ef55c2c316849c0b60e7e43c674f7ce/artifacts
+end_time: 1699261808932
+entry_point_name: ''
+experiment_id: '601141013700670123'
+lifecycle_stage: active
+run_id: 7ef55c2c316849c0b60e7e43c674f7ce
+run_name: sassy-moth-449
+run_uuid: 7ef55c2c316849c0b60e7e43c674f7ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699261768563
+status: 3
+tags: []
+user_id: himanshu.verma

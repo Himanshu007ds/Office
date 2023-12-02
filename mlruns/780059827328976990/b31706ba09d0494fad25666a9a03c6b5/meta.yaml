@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/b31706ba09d0494fad25666a9a03c6b5/artifacts
+end_time: 1699329190290
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: b31706ba09d0494fad25666a9a03c6b5
+run_name: thundering-lynx-297
+run_uuid: b31706ba09d0494fad25666a9a03c6b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699329151416
+status: 3
+tags: []
+user_id: himanshu.verma

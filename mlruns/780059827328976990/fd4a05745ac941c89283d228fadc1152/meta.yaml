@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/fd4a05745ac941c89283d228fadc1152/artifacts
+end_time: 1699270308900
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: fd4a05745ac941c89283d228fadc1152
+run_name: brawny-horse-597
+run_uuid: fd4a05745ac941c89283d228fadc1152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699270269465
+status: 3
+tags: []
+user_id: himanshu.verma

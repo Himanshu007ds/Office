@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/d86a2414007d47f38b0fe78351cecfc1/artifacts
+end_time: 1699283158050
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: d86a2414007d47f38b0fe78351cecfc1
+run_name: thoughtful-crab-215
+run_uuid: d86a2414007d47f38b0fe78351cecfc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699283123776
+status: 3
+tags: []
+user_id: himanshu.verma

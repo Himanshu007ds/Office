@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/8a877ec663bf46c1a6164d1c2ade1d36/artifacts
+end_time: 1699278972853
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 8a877ec663bf46c1a6164d1c2ade1d36
+run_name: angry-fly-187
+run_uuid: 8a877ec663bf46c1a6164d1c2ade1d36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699278934757
+status: 3
+tags: []
+user_id: himanshu.verma

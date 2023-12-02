@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/8fc625433bd64ae3a8dcd21d468a560f/artifacts
+end_time: 1699268185910
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 8fc625433bd64ae3a8dcd21d468a560f
+run_name: wistful-deer-202
+run_uuid: 8fc625433bd64ae3a8dcd21d468a560f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699268149508
+status: 3
+tags: []
+user_id: himanshu.verma

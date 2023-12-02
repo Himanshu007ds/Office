@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/929594737139875838/3f2bfdf7272e47ac8829036e4aafab57/artifacts
+deleted_time: 1699261570557
+end_time: 1699255445828
+entry_point_name: ''
+experiment_id: '929594737139875838'
+lifecycle_stage: deleted
+run_id: 3f2bfdf7272e47ac8829036e4aafab57
+run_name: likeable-pig-805
+run_uuid: 3f2bfdf7272e47ac8829036e4aafab57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699255406476
+status: 4
+tags: []
+user_id: himanshu.verma

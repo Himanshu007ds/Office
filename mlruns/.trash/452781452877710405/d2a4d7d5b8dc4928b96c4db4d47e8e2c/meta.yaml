@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/452781452877710405/d2a4d7d5b8dc4928b96c4db4d47e8e2c/artifacts
+deleted_time: 1699261562502
+end_time: 1699261076509
+entry_point_name: ''
+experiment_id: '452781452877710405'
+lifecycle_stage: deleted
+run_id: d2a4d7d5b8dc4928b96c4db4d47e8e2c
+run_name: traveling-croc-264
+run_uuid: d2a4d7d5b8dc4928b96c4db4d47e8e2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699261036565
+status: 3
+tags: []
+user_id: himanshu.verma

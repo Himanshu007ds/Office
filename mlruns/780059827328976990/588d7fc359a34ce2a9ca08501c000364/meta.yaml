@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/588d7fc359a34ce2a9ca08501c000364/artifacts
+end_time: 1699271609389
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 588d7fc359a34ce2a9ca08501c000364
+run_name: righteous-mouse-110
+run_uuid: 588d7fc359a34ce2a9ca08501c000364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699271571478
+status: 3
+tags: []
+user_id: himanshu.verma

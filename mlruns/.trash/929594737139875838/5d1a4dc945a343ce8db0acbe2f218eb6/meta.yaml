@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/929594737139875838/5d1a4dc945a343ce8db0acbe2f218eb6/artifacts
+deleted_time: 1699261570557
+end_time: 1699255463563
+entry_point_name: ''
+experiment_id: '929594737139875838'
+lifecycle_stage: deleted
+run_id: 5d1a4dc945a343ce8db0acbe2f218eb6
+run_name: persistent-tern-933
+run_uuid: 5d1a4dc945a343ce8db0acbe2f218eb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699255456307
+status: 4
+tags: []
+user_id: himanshu.verma

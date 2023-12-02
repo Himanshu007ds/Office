@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/4db8413ccf924029bc9275558cc32151/artifacts
+end_time: 1699282646007
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 4db8413ccf924029bc9275558cc32151
+run_name: grandiose-gnu-233
+run_uuid: 4db8413ccf924029bc9275558cc32151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699282608479
+status: 3
+tags: []
+user_id: himanshu.verma

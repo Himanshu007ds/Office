@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/af394f9f7e414a63a1f99a2c68cfc025/artifacts
+end_time: 1699275147195
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: af394f9f7e414a63a1f99a2c68cfc025
+run_name: likeable-gull-603
+run_uuid: af394f9f7e414a63a1f99a2c68cfc025
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699275111634
+status: 3
+tags: []
+user_id: himanshu.verma

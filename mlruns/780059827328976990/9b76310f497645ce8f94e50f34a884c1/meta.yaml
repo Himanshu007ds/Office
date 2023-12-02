@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/9b76310f497645ce8f94e50f34a884c1/artifacts
+end_time: 1699264431682
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 9b76310f497645ce8f94e50f34a884c1
+run_name: welcoming-shark-289
+run_uuid: 9b76310f497645ce8f94e50f34a884c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699264389335
+status: 3
+tags: []
+user_id: himanshu.verma

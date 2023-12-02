@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/35f9434b571449dc814090f0ab12b0fc/artifacts
+end_time: 1699278314967
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 35f9434b571449dc814090f0ab12b0fc
+run_name: ambitious-cat-153
+run_uuid: 35f9434b571449dc814090f0ab12b0fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699278280582
+status: 3
+tags: []
+user_id: himanshu.verma

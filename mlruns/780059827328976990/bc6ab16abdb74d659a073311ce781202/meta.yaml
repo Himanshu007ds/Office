@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/bc6ab16abdb74d659a073311ce781202/artifacts
+end_time: 1699263762309
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: bc6ab16abdb74d659a073311ce781202
+run_name: clean-squid-219
+run_uuid: bc6ab16abdb74d659a073311ce781202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699263723471
+status: 3
+tags: []
+user_id: himanshu.verma

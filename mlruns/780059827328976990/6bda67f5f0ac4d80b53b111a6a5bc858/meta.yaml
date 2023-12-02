@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/6bda67f5f0ac4d80b53b111a6a5bc858/artifacts
+end_time: 1699277869011
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 6bda67f5f0ac4d80b53b111a6a5bc858
+run_name: abrasive-kit-877
+run_uuid: 6bda67f5f0ac4d80b53b111a6a5bc858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699277831269
+status: 3
+tags: []
+user_id: himanshu.verma

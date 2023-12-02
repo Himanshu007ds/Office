@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/452781452877710405/0caebb8152534d3d9f1621a8477e06a8/artifacts
+deleted_time: 1699261562502
+end_time: 1699261155643
+entry_point_name: ''
+experiment_id: '452781452877710405'
+lifecycle_stage: deleted
+run_id: 0caebb8152534d3d9f1621a8477e06a8
+run_name: casual-wasp-18
+run_uuid: 0caebb8152534d3d9f1621a8477e06a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699261116026
+status: 3
+tags: []
+user_id: himanshu.verma

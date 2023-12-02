@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/452781452877710405/a60ed36c6d5a4d9db79a28ffc24c44f6/artifacts
+deleted_time: 1699261562502
+end_time: 1699260842205
+entry_point_name: ''
+experiment_id: '452781452877710405'
+lifecycle_stage: deleted
+run_id: a60ed36c6d5a4d9db79a28ffc24c44f6
+run_name: kindly-sow-439
+run_uuid: a60ed36c6d5a4d9db79a28ffc24c44f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699260805364
+status: 3
+tags: []
+user_id: himanshu.verma

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/1512b07818a145a9b2a6bc7d4d81d000/artifacts
+end_time: 1699277294120
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 1512b07818a145a9b2a6bc7d4d81d000
+run_name: overjoyed-elk-684
+run_uuid: 1512b07818a145a9b2a6bc7d4d81d000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699277255062
+status: 3
+tags: []
+user_id: himanshu.verma

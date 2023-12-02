@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/98cc3a5775534ee0a18a1e68584f060b/artifacts
+end_time: 1699271143420
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 98cc3a5775534ee0a18a1e68584f060b
+run_name: crawling-conch-895
+run_uuid: 98cc3a5775534ee0a18a1e68584f060b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699271107982
+status: 3
+tags: []
+user_id: himanshu.verma

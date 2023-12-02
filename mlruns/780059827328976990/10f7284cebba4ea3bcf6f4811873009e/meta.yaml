@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/10f7284cebba4ea3bcf6f4811873009e/artifacts
+end_time: 1699269532844
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 10f7284cebba4ea3bcf6f4811873009e
+run_name: painted-skunk-676
+run_uuid: 10f7284cebba4ea3bcf6f4811873009e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699269497432
+status: 3
+tags: []
+user_id: himanshu.verma

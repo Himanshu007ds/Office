@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/95648790d4a84fce8ac9be7b38280bdc/artifacts
+end_time: 1699277369789
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 95648790d4a84fce8ac9be7b38280bdc
+run_name: nosy-fawn-684
+run_uuid: 95648790d4a84fce8ac9be7b38280bdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699277331805
+status: 3
+tags: []
+user_id: himanshu.verma

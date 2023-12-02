@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/505fced02b0b4e5e8d434d562e19fa16/artifacts
+end_time: 1699262197456
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 505fced02b0b4e5e8d434d562e19fa16
+run_name: industrious-lynx-972
+run_uuid: 505fced02b0b4e5e8d434d562e19fa16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699262159099
+status: 3
+tags: []
+user_id: himanshu.verma

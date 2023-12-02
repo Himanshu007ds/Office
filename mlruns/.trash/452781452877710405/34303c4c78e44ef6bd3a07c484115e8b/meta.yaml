@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/452781452877710405/34303c4c78e44ef6bd3a07c484115e8b/artifacts
+deleted_time: 1699261562502
+end_time: 1699260878280
+entry_point_name: ''
+experiment_id: '452781452877710405'
+lifecycle_stage: deleted
+run_id: 34303c4c78e44ef6bd3a07c484115e8b
+run_name: amazing-loon-973
+run_uuid: 34303c4c78e44ef6bd3a07c484115e8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699260842220
+status: 3
+tags: []
+user_id: himanshu.verma

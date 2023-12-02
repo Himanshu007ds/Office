@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/821822319071923312/bf0264921a4d486790d35d8b77e0f510/artifacts
+deleted_time: 1699258099043
+end_time: 1699257963904
+entry_point_name: ''
+experiment_id: '821822319071923312'
+lifecycle_stage: deleted
+run_id: bf0264921a4d486790d35d8b77e0f510
+run_name: industrious-dove-135
+run_uuid: bf0264921a4d486790d35d8b77e0f510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699257925658
+status: 3
+tags: []
+user_id: himanshu.verma

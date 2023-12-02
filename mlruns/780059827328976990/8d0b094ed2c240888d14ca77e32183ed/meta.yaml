@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/8d0b094ed2c240888d14ca77e32183ed/artifacts
+end_time: 1699282008889
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 8d0b094ed2c240888d14ca77e32183ed
+run_name: secretive-mouse-214
+run_uuid: 8d0b094ed2c240888d14ca77e32183ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699281972176
+status: 3
+tags: []
+user_id: himanshu.verma

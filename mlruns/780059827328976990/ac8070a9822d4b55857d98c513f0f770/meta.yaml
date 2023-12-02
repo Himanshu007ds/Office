@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/ac8070a9822d4b55857d98c513f0f770/artifacts
+end_time: 1699283722275
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: ac8070a9822d4b55857d98c513f0f770
+run_name: fun-vole-173
+run_uuid: ac8070a9822d4b55857d98c513f0f770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699283687690
+status: 3
+tags: []
+user_id: himanshu.verma

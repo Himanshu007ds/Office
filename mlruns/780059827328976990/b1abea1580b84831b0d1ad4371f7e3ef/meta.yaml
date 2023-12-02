@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/b1abea1580b84831b0d1ad4371f7e3ef/artifacts
+end_time: 1699267679787
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: b1abea1580b84831b0d1ad4371f7e3ef
+run_name: clean-croc-843
+run_uuid: b1abea1580b84831b0d1ad4371f7e3ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699267640908
+status: 3
+tags: []
+user_id: himanshu.verma

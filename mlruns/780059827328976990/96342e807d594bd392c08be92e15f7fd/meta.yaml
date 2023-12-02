@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/96342e807d594bd392c08be92e15f7fd/artifacts
+end_time: 1699274040933
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 96342e807d594bd392c08be92e15f7fd
+run_name: useful-goat-411
+run_uuid: 96342e807d594bd392c08be92e15f7fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699273999808
+status: 3
+tags: []
+user_id: himanshu.verma

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/65719d618a6748d68f2dd0058177e700/artifacts
+end_time: 1699278455058
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 65719d618a6748d68f2dd0058177e700
+run_name: rebellious-moth-281
+run_uuid: 65719d618a6748d68f2dd0058177e700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699278420404
+status: 3
+tags: []
+user_id: himanshu.verma

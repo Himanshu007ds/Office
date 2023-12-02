@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/himanshu.verma/vs_code/POC_MGC/Code/mlruns/780059827328976990/8fd2de29eda64bdfbda3e8f310336550/artifacts
+end_time: 1699263313936
+entry_point_name: ''
+experiment_id: '780059827328976990'
+lifecycle_stage: active
+run_id: 8fd2de29eda64bdfbda3e8f310336550
+run_name: valuable-wolf-520
+run_uuid: 8fd2de29eda64bdfbda3e8f310336550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699263271432
+status: 3
+tags: []
+user_id: himanshu.verma
